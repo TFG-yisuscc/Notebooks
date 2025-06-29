@@ -14,7 +14,7 @@ class Throttling:
     soft_temp_limit_occurred: bool
 
     @staticmethod
-    def pseudoconstructor(cadena:str):
+    def parser(cadena:str):
         #TODO a serie of checkers/raisers for the parsing
         #convertimos de cadena a binario
         b= format(int(cadena),'b' ) #es a la inversa

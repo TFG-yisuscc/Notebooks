@@ -1,0 +1,5 @@
+- Cambiar la nomenclatura de los .csv, principalmente hacer que _ se utilize unicamente como separador como separador 
+-  Añadir la opcion de que el usuario ponga sus propias etiquetas, se incluirian al final del archivo 
+-  Añadir el nothinking por defecto 
+-  Prompt metrics qizás debiera ser una clase de tipo json 
+- 
